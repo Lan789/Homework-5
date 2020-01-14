@@ -8,4 +8,4 @@ Array.prototype.rotate = function(n) {
  }
  return this;
 }
-console.log(['a','b','c','d','e','f','g','h'].rotate(3))s
+console.log(['a','b','c','d','e','f','g','h'].rotate(3))
